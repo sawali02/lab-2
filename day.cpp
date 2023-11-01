@@ -19,7 +19,7 @@ int main(){
 	printf("the day is sunday");
 	return(0);
 	
-		return(0);      
+		     
 	
 	
  
